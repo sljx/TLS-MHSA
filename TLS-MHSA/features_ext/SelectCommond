@@ -1,0 +1,9 @@
+output=data
+dist=1
+cdist=1
+entropy=1
+classify=1
+hd=1
+tls=1
+fpx=1
+bidir=1
